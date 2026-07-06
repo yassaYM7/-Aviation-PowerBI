@@ -38,10 +38,11 @@ The dataset includes flight records and customer satisfaction feedback.
 
 
 ## 📷 Power BI Dashboard
-![Power BI Screenshot 1](img/1.png)  
-![Power BI Screenshot 2](img/2.png)
-![Power BI Screenshot 3](img/3.png)
-![Power BI Screenshot 4](img/4.png)
+<img width="1019" height="607" alt="1" src="https://github.com/user-attachments/assets/3c17bcfd-f585-4080-a0c3-a5136e944205" />
+<img width="831" height="620" alt="2" src="https://github.com/user-attachments/assets/9ba3412c-d005-4071-85fc-bc1a21a734c8" />
+<img width="1188" height="628" alt="3" src="https://github.com/user-attachments/assets/5c886e8b-cb77-40c4-a1e8-384f10d66c66" />
+<img width="1423" height="597" alt="4" src="https://github.com/user-attachments/assets/e570bdd9-48fe-4d03-b191-07f32935789a" />
+
 
 
 ## 📂 Files Included
